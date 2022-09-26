@@ -7,6 +7,10 @@ tugas kalian:
 
 1. Fork Repo master GitHub-Branch-Web-5MI ke akun kalian.
 2. Buatlah Branch dari repo master GitHub-Branch-Web-5MI dia akun kalian, lalu beri nama file seperti ini:
-Nama_NIM_kelas. Contoh: Andi_1010101_5MIP. File tida perlu diisi.
+Nama_NIM_kelas. Contoh: Andi_1010101_5MIP.
+3. Didalam file, isi dengan jawaban dari soal berikut:
+  a. Apa yang dimaksud dengan Fork?
+  b. Apa yang dimaksud dengan Branch?
+  c.Apa yang dimaksud dengan pull request & merge?
 
-3. Lakukan pull request ke Repo Master
+4. Lakukan pull request ke Repo Master
