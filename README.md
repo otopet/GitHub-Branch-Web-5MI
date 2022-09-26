@@ -10,8 +10,8 @@ tugas kalian:
 Nama_NIM_kelas. Contoh: Andi_1010101_5MIP.
 3. Didalam file, isi dengan jawaban dari soal berikut:
 
-  a. Apa yang dimaksud dengan Fork?
-  b. Apa yang dimaksud dengan Branch?
-  c.Apa yang dimaksud dengan pull request & merge?
+a. Apa yang dimaksud dengan Fork?
+b. Apa yang dimaksud dengan Branch?
+c.Apa yang dimaksud dengan pull request & merge?
 
 4. Lakukan pull request ke Repo Master
