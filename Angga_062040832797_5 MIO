@@ -1,0 +1,9 @@
+1.fork proyek adalah hal yang terjadi ketika suatu pengembang menyalin kode sumber dari suatu paket perangkat lunak dan memulai pengembangannya sendiri secara terpisah,
+menghasilkan perangkat lunak yang berbeda dan terpisah.
+2.branch adalah bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya. Branch ini dapat dipararelkan ke Git branch lain yang Anda buat. 
+Seperti yang diketahui, Anda dapat memasukkan fungsi baru ke dalam kode secara teratur dan tepat.
+3.Pull request yang dilakukannya saat ingin berkontribusi dalam suatu project atau repository di Github. 
+Kontribusi tersebut dengan menambahkan fiturnya atau memperbaiki bug dalam suatu project. Perintah Git pull akan menentukan commit terbarunya secara otomatis. 
+Kemudian menggabungkannya dengan branch yang aktif.
+  Merge adalah suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut
+  menjadi satu. Merge akan mengombinasikan beberapa tahapan commits menjadi satu branch yang terunifikasi.
