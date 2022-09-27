@@ -1,0 +1,7 @@
+(a)Apa yang dimaksud dengan Fork?
+JAWAB : Yaitu menyalin repo coder lain ke repo kita sendiri
+(b)Apa yang dimaksud dengan Branch? 
+JAWAB : Perinta untuk membuat cabang
+(c)Apa yang dimaksud dengan pull request & merge?
+JAWAB : Pull Request adalah istilah yang bisa kita artikan sebagai permintaan untuk menggabungkan kode
+Merge  suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu. 
