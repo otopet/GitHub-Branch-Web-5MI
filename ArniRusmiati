@@ -1,0 +1,7 @@
+a. Apa yang dimaksud dengan Fork? 
+   berarti menyalin sebuah project, mengubah namanya, serta membuat sebuah project dan komunitas dengan salinannya.
+b. Apa yang dimaksud dengan Branch? 
+   Disebut juga dengan cabang dari repository utama. Pada branch, code yang digunakan dapat diubah untuk memperbaiki bug. 
+c.Apa yang dimaksud dengan pull request & merge
+  pull request :  adalah istilah yang bisa kita artikan sebagai permintaan untuk menggabungkan kode.
+  marge : suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
