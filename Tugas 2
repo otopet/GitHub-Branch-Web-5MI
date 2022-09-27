@@ -1,0 +1,19 @@
+NAMA    : RADEN MUHAMMAD ADHA ABIJAKSANA
+KELAS   : 5 MIO
+NIM     : 062040832805
+MATKUL  : PRAK. REKAYASA WEB
+
+A) Apa yang dimaksud dengan Fork?
+   Jawab:
+   Menyalin repository pengguna lain ke akun GitHub. Biasanya, fork digunakan untuk bereksperimen pada suatu project yang dianggap menarik.
+   
+B) Apa yang dimaksud dengan Branch?
+   Jawab:
+   branch adalah suatu lingkungan yang dapat digunakan untuk bereksperimen pada proyek tanpa mengganggu lingkungan utama dari proyek tersebut.
+   
+A) Apa yang dimaksud dengan  pull request & merge?
+   Jawab:
+   -Pull request adalah suatu permintaan untuk menggabungkan (merge) kode yang kita modifikasi dengan repositori utama atau repositori lain. 
+   -Merge adalah suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan 
+    kembali branch tersebut menjadi satu.
+
