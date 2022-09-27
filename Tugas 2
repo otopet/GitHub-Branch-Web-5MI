@@ -1,0 +1,9 @@
+a. Apa yang dimaksud dengan Fork? 
+Fork : Menyalin repository orang lain ke akun GitHub. Umumnya, hal ini digunakan untuk bereksperimen pada suatu project yang dianggap menarik.
+
+b. Apa yang dimaksud dengan Branch? 
+Branch : Disebut juga dengan cabang dari repository utama. Pada branch, code yang digunakan dapat diubah untuk memperbaiki bug. 
+
+c. Apa yang dimaksud dengan pull request & merge?
+Pull Request : Mengusulkan suatu perubahan pada repository ke pemilik atau pemimpin project.
+Merge : Penggabungan code yang sudah diubah pada suatu branch ke repository lainnya. 
