@@ -1,0 +1,19 @@
+Nama  : Tania Frentinur
+Kelas : 5MIO
+NIM   : 062040832808
+
+a) Apa yang dimaksud dengan Fork?
+Jawab :
+Fork berarti menyalin sebuah project, mengubah namanya, serta membuat sebuah project dan komunitas dengan salinannya.
+Orang yang melakukan fork jarang sekali berkontribusi kembali ke project utama. 
+
+b) Apa yang dimaksud dengan Branch?
+Jawab :
+Branch adalah bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya. Branch ini dapat dipararelkan ke Git branch lain yang Anda buat.
+Seperti yang diketahui, Anda dapat memasukkan fungsi baru ke dalam kode secara teratur dan tepat. 
+
+c) Apa yang dimaksud dengan pull request & merge?
+Jawab :
+* Pull Request adalah istilah yang bisa kita artikan sebagai permintaan untuk menggabungkan kode.
+* Merge adalah suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
+Merge akan mengombinasikan beberapa tahapan commits menjadi satu branch yang terunifikasi
