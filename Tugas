@@ -1,0 +1,18 @@
+Nama: Nur afiffah masna
+kelas : 5 MIO
+NIM : 062040832804
+
+TUGAS 2 GITHUB
+1. apa yang di maksud dengan fork?
+   berarti menyalin sebuah project, mengubah namanya, serta membuat sebuah project dan komunitas dengan salinannya,  ditujukan untuk membuat salinan projects orang lain
+2.apa yang di maksud dengan branch?
+  Branch merupakan  bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya. Branch ini dapat dipararelkan ke Git branch lain yang kita buat. 
+  Seperti yang diketahui, kita dapat memasukkan fungsi baru ke dalam kode secara teratur dan tepat.salinan dari repositori. Anda bisa menggunakan branch 
+  ketika akan melakukan suatu pengembangan atau development secara terpisah.
+ 3.Apa yang dimaksud dengan pull request & merge?
+  Pull Request adalah istilah yang bisa kita artikan sebagai permintaan untuk menggabungkan kode. Kita sudah membuat perubahan di repository hasil fork, lalu ingin 
+  menggabungkan dengan repository sumber. Maka kita harus membuat Pull Request. atau suatu permintaan untuk menggabungkan (merge) kode yang kita modifikasi
+  dengan repositori utama atau repositori lain.
+  Merge adalah suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
+  Merge akan mengombinasikan beberapa tahapan commits menjadi satu branch yang terunifikasi
+
