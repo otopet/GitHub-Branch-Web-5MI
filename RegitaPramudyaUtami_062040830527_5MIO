@@ -1,0 +1,9 @@
+Apa yang dimaksud dengan fork?
+Fork yaitu meyalin sebuah project, mengubah namanya, serta membuat sebuah project dan komunitas dengan salinannya
+
+Apa yang dimaksud dengan branch?
+Branch merupakan salinan dari repositori. Bisa gunakan ketika akan melakukan suatu pengembangan atau development secara terpisah.
+
+Apa yang dimaksud dengan pull request & merge?
+Pull request adalah permintaan untuk menggabungkan kode. Pull request yang dilakukannya saat ingin berkontribusi dalam suatu project atau repository di Github.
+Merge adalah suatu command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
