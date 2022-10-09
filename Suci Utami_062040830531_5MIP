@@ -1,0 +1,20 @@
+Nama : Suci Utami
+Kelas : 5 MIP
+NIM : 062040830531
+
+TUGAS 2
+
+1. Apa yang dimaksud dengan Fork?
+Fork maksudnya yaitu menyalin repository orang lain ke akun Github.  Fork juga berarti menyalin repositori yang sudah ada, kemudian membuat beberapa perubahan yang diperlukan, 
+lalu menyimpan versi terbarunya sebagai repositori baru, dan menjadikannya proyek kita sendiri. Umumnya, hal ini digunakan untuk bereksperimen pada suatu project yang dianggap menarik.
+
+2. Apa yang dimaksud dengan Branch?
+Disebut juga dengan cabang dari repository utama. Di branch, kode yang digunakan bisa diotak-atik untuk memperbaiki bug. 
+Branch merupakan salinan dari repositori. Anda bisa menggunakan branch ketika akan melakukan suatu pengembangan atau development secara terpisah.
+Pekerjaan atau task yang dikerjakan di branch tidak akan memengaruhi repositori pusat atau branch lainnya. 
+
+3. Apa yang dimaksud dengan pull request & merge?
+Pull request adalah ketika kita menginformasikan user bahwa kita sudah memindahkan perubahan yang dilakukan di branch ke master repositori.
+Collaborator repositori akan menerima atau menolak pull request. Setelah pull request diterima, proyek bisa didiskusikan dan diulas bersama dengan collaborator.
+Masudnya pull request bisa mengusulkan suatu perubahan pada repository ke pemilik/pemimpin project. 
+Sementara itu, Merge merupakan enggabungan kode yang sudah diubah pada suatu branch ke respiratory lainnya. 
